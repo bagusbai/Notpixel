@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5584312253%2C%22first_name%22%3A%22nandaa%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Nandaa6%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-4635965377387993327&chat_type=sender&auth_date=1728534431&hash=0deaed488ed8ddf0848c6462962deb21ad2c0aff380866d87f34f2a2867ffe26
